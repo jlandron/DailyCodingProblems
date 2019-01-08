@@ -1,0 +1,1 @@
+Given a number of steps, and assuming you can take either 1 or two steps at a time, determine how many ways you can walk up the steps.
