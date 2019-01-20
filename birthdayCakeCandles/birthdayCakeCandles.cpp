@@ -1,3 +1,8 @@
+#include <unordered_map>
+#include <vector>
+
+using namespace std;
+
 int birthdayCakeCandles(vector<int> ar) {
 
     //create a hashmap to better solve this problem
